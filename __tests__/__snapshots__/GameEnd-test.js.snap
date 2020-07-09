@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  collapsable={true}
+  pointerEvents="box-none"
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": "100%",
+        "justifyContent": "center",
+        "position": "absolute",
+        "width": "100%",
+        "zIndex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "purple",
+          "height": 200,
+          "justifyContent": "center",
+          "transform": Array [
+            Object {
+              "scaleX": 1,
+            },
+            Object {
+              "scaleY": 1,
+            },
+            Object {
+              "translateY": 1334,
+            },
+          ],
+          "width": "80%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 22,
+            "fontWeight": "bold",
+            "textAlign": "center",
+          }
+        }
+        testID="GameEndMessage"
+      >
+        GAME OVER
+      </Text>
+      <Button
+        title="RETRY"
+      />
+    </View>
+  </View>
+</View>
+`;

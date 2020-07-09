@@ -1,0 +1,3212 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  collapsable={true}
+  pointerEvents="box-none"
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 26,
+          }
+        }
+      >
+        00
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 26,
+          }
+        }
+      >
+        00:00:00
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 26,
+          }
+        }
+      >
+        00
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        disabled={false}
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+      <
+        style={
+          Array [
+            Object {
+              "height": 83.33333333333333,
+              "width": 83.33333333333333,
+            },
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "gray",
+              "borderColor": "white",
+              "borderWidth": 1,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "textAlignVertical": "center",
+              }
+            }
+            testID="CellValue"
+          >
+            
+          </Text>
+        </View>
+      </>
+    </View>
+  </View>
+</View>
+`;
